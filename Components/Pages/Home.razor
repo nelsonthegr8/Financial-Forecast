@@ -1,0 +1,22 @@
+﻿@page "/"
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app right now @info.
+
+<div class="container">
+
+	<button @onclick=updateInfo title="Click Me"></button>
+
+</div>
+
+@code {
+
+	private int info = 0;
+
+	private void updateInfo()
+	{
+		info++;
+	}
+
+}

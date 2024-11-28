@@ -1,0 +1,4 @@
+C:\Users\Nelson Brumaire\source\repos\Financial ForeCast\wwwroot\index.html
+C:\Users\Nelson Brumaire\source\repos\Financial ForeCast\wwwroot\css\app.css
+C:\Users\Nelson Brumaire\source\repos\Financial ForeCast\wwwroot\css\bootstrap\bootstrap.min.css
+C:\Users\Nelson Brumaire\source\repos\Financial ForeCast\wwwroot\css\bootstrap\bootstrap.min.css.map

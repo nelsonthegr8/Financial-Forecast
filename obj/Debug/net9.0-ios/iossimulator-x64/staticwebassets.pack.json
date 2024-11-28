@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Nelson Brumaire\\source\\repos\\Financial ForeCast\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\scopedcss\\bundle\\Financial ForeCast.styles.css",
+      "PackagePath": "staticwebassets\\Financial ForeCast.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Nelson Brumaire\\source\\repos\\Financial ForeCast\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Nelson Brumaire\\source\\repos\\Financial ForeCast\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nelson Brumaire\\source\\repos\\Financial ForeCast\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nelson Brumaire\\source\\repos\\Financial ForeCast\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.Financial ForeCast.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.Financial ForeCast.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.build.Financial ForeCast.props",
+      "PackagePath": "build\\Financial ForeCast.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.buildMultiTargeting.Financial ForeCast.props",
+      "PackagePath": "buildMultiTargeting\\Financial ForeCast.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.buildTransitive.Financial ForeCast.props",
+      "PackagePath": "buildTransitive\\Financial ForeCast.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

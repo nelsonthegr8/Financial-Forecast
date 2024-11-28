@@ -1,0 +1,8 @@
+C:\Users\nelso\source\repos\Financial ForeCast\wwwroot\index.html
+C:\Users\nelso\source\repos\Financial ForeCast\wwwroot\css\app.css
+C:\Users\nelso\source\repos\Financial ForeCast\wwwroot\css\bootstrap\bootstrap.min.css
+C:\Users\nelso\source\repos\Financial ForeCast\wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\css\app.css
+wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\index.html
